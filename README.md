@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Info
 
 Ejercicio con React y la API de Gyphi
